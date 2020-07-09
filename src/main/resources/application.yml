@@ -1,0 +1,4 @@
+# 开发阶段关闭thymeleaf的模板缓存
+spring:
+  thymeleaf:
+    cache: false
